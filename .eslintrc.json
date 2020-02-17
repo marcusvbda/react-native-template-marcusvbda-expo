@@ -1,0 +1,10 @@
+{
+    "parser": "babel-eslint",
+    "settings": {
+        "import/resolver": {
+            "babel-plugin-root-import": {
+                "rootPathSuffix": "src"
+            }
+        }
+    }
+}
