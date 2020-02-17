@@ -1,8 +1,7 @@
 todo
 
 ```
--implementar context api
--implementar styled components
 -services
+-readme com instruções
 -template npm
 ```
